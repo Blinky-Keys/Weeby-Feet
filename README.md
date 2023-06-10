@@ -32,3 +32,12 @@ Hi, my name is Nathan Ellison (aka Weeby-Feet).
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a> <!-- VS Code -->
 
 I am a developer with a keen interest in hacking and cybersecurity. I maintain my own website (as well as the infrastructure it relies on), which I built from the ground up. I also write my own blog where I document all of the new things that I have learned, as well as my successes (and failures) from participating in Capture The Flag challenges. 
+
+### Capture The Flag ⛳
+
+I regularly participate in CTF challenges on both the Hack The Box and Try Hack Me platforms, having finished the first Hack The Box season with a silver ranking. 
+
+- [Hack The Box](https://app.hackthebox.com/profile/330840)
+- [Try Hack Me](https://tryhackme.com/p/WeebyF33t)
+- [Join My HTB Team](https://app.hackthebox.com/teams/overview/5292)
+
